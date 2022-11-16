@@ -1,5 +1,4 @@
 ### Hi there 👋
-**lauraqp2/lauraqp2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Laura Patiño</h1>
 <h3 align="center">Frontend developer from Colombia.</h3>
